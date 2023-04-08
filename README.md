@@ -1,8 +1,6 @@
 # Ứng dụng tìm kiếm BK News
 
-<video width="700" height="300" controls>
-  <source src="screen-shot.mp4" type="video/mp4">
-</video>
+![](./screen-shot.gif)
 
 ## 🟢 Điều kiện tiên quyết
 
