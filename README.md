@@ -1,35 +1,22 @@
-# Hacker News Search App
+# Ứng dụng tìm kiếm BK News
 
-Learn the basics of building Node.js websites with Express and Pug by developing an application that searches Hacker News' top stories.
+<video width="700" height="300" controls>
+  <source src="screen-shot.mov" type="video/mp4">
+</video>
 
-**Full tutorial**: [How to Build a Node.js Application with Express and Pug](https://betterstack.com/community/guides/scaling-nodejs/build-nodejs-application-express-pug).
+## 🟢 Điều kiện tiên quyết
 
-![Hacker News Search Application](screenshot.png)
+- Bạn phải cài đặt các môi trường dứoi đây:
+  - Node.js v16.14.0.
+  - npm v8.3.1.
 
-## 🟢 Prerequisites
+## 📦 Cách thực hiện
 
-You must have Node.js and npm installed on your machine. This project was built against the following versions:
+- Chạy `npm install` để cài đặt các dependencies.
+- Sau đó thực thi dòng lệnh dứoi đây:
 
-- Node.js v16.14.0.
-- npm v8.3.1.
+  ```shell
+  npm run dev
+  ```
 
-## 📦 Getting started
-
-- Clone this repo to your machine
-
-```shell
-git clone https://github.com/betterstack-community/hacker-news
-```
-
-- `cd` into the project folder and run `npm install` to download dependencies.
-- Execute the command below to start the development server:
-
-```shell
-npm run dev
-```
-
-- Visit http://localhost:3000 in your browser.
-
-## ⚖ License
-
-The code used in this project and in the linked tutorial are licensed under the [Apache License, Version 2.0](LICENSE).
+- Khi server chạy, hãy thử vào http://localhost:3000 ở trình duyệt của bạn
